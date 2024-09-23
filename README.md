@@ -26,5 +26,5 @@ To run this project, you will need the following installed:
 ### Flows Overview
 1. **Main Flow:** Responsible for the orchestration of the ETL process, triggering the extract, transform, and load sub-flows.
 2. **Error Handling Flow:** Catches and logs any errors that occur during the ETL process, ensuring robustness and traceability.
-3 **Database Insert Flow:** Handles the insertion of transformed data into the PostgreSQL database.
+3. **Database Insert Flow:** Handles the insertion of transformed data into the PostgreSQL database.
 
