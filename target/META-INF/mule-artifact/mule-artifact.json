@@ -1,0 +1,25 @@
+{
+  "configs": [
+    "mulesoft-as-etl-files-to-postgresql.xml"
+  ],
+  "secureProperties": [],
+  "supportedJavaVersions": [],
+  "redeploymentEnabled": true,
+  "name": "com.mycompany:mulesoft-as-etl-files-to-postgresql:1.0.0-SNAPSHOT",
+  "minMuleVersion": "4.7.0",
+  "requiredProduct": "MULE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "log4j2.xml",
+        "mulesoft-as-etl-files-to-postgresql.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
